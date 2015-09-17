@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskIt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="Recording">Android Audio Recording Application</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="start_speech_manager_activity">start speech manager</string>
+    <string name="title_activity_speechManager">Speech Manager</string>
+    <string name="start_dashboard_activity">Dashboard</string>
+
+</resources>
